@@ -8,6 +8,8 @@
 
 #import "ViewController.h"
 
+// This part is done on the server !!!
+
 @interface ViewController ()
 
 @end
@@ -17,7 +19,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	// you can do quite a lot here !
 }
 
 - (void)didReceiveMemoryWarning
