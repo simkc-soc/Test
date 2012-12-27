@@ -8,8 +8,6 @@
 
 #import "ViewController.h"
 
-// This part is done on the server !!!
-
 @interface ViewController ()
 
 @end
@@ -19,9 +17,6 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// you can do quite a lot here !
-    
-    // OK this is just great !!!
 }
 
 - (void)didReceiveMemoryWarning
